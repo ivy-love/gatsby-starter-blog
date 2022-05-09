@@ -1,5 +1,5 @@
 ---
-title: Hello World 안녕하세요
+title: Jihee's Blog
 date: "2022-05-09 17:41:03.284Z"
 description: "Hello World"
 ---
