@@ -9,6 +9,7 @@ module.exports = {
     siteUrl: `https://jiheek.gatsbyjs.io/`,
     social: {
       twitter: `kylemathews`,
+      github: 'ivy-love',
     },
   },
   plugins: [
